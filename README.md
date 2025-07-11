@@ -32,5 +32,6 @@ A responsive and modern web app to explore GitHub profiles and repositories usin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/github-profile-explorer.git
-   cd github-profile-explorer
+   git clone https://github.com/BaaluGudipati/oro_frontend
+
+
